@@ -1,6 +1,6 @@
 """
 ============================================================
-                 NESTED CONDITIONS
+                NESTED CONDITIONS
 ============================================================
 
 A nested condition is an if statement inside another

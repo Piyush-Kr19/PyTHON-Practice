@@ -33,7 +33,6 @@ Challenge 1 — Countdown
 -----------------------
 Take a number from the user and print a countdown
 until 0.
-
 """
 
 num = int(input("Enter a number: "))
@@ -67,7 +66,6 @@ Challenge 3 — Password Attempts
 Ask the user for a password.
 
 Give them 3 attempts.
-
 """
 password = "Bingo"
 attempts = 0
@@ -84,6 +82,19 @@ while attempts < 3:
         print("Account Locked")
         
         
+"""
+CHALLENGE 4 — NUMBER GUESSING
+-----------------------------
+Secret number = 42
+Keep asking the user to guess.
+"""
+
+Secret_number = 45
+
+while 
+
+
+
 # ============================================================
 #                  WHILE LOOP CHALLENGES
 # ============================================================

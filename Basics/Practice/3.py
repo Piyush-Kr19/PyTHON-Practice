@@ -1,4 +1,4 @@
-# 🐍 Challenge #3 — Calculator Core
+# 🐍 Challenge #3 — Shopping Cart
 
 # 🎯 Objective: Variables aur arithmetic operators ko combine karna.
 

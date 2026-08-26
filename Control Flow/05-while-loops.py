@@ -91,7 +91,7 @@ Keep asking the user to guess.
 
 Secret_number = 45
 
-while 
+if 
 
 
 
